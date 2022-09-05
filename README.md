@@ -1,4 +1,6 @@
 # 项目
+[![Build Status](https://github.ruijc.com:20443/api/badges/pangum/pangu/status.svg)](https://github.ruijc.com:20443/pangum/pangu)
+[![Go Report Card](https://goreportcard.com/badge/github.com/storezhang/ddns)](https://goreportcard.com/report/github.com/storezhang/ddns)
 
 项目介绍
 
